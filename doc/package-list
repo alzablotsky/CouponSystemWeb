@@ -1,0 +1,14 @@
+com.jb.couponsystem
+com.jb.couponsystem.config
+com.jb.couponsystem.connection
+com.jb.couponsystem.dao
+com.jb.couponsystem.dbdao
+com.jb.couponsystem.entities
+com.jb.couponsystem.entry
+com.jb.couponsystem.enums
+com.jb.couponsystem.exceptions
+com.jb.couponsystem.facades
+com.jb.couponsystem.repo
+com.jb.couponsystem.servlets
+com.jb.couponsystem.tasks
+com.jb.couponsystem.webservices
