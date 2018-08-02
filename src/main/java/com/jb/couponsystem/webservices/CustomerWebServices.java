@@ -36,6 +36,7 @@ import com.jb.couponsystem.facades.CustomerFacade;
  *
  */
 @RestController
+@RequestMapping("customer")
 public class CustomerWebServices {
 	
 

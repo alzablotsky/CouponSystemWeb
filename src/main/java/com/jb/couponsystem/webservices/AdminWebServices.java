@@ -38,6 +38,7 @@ import ch.qos.logback.core.net.SyslogOutputStream;
  */
 @CrossOrigin("*")
 @RestController
+@RequestMapping("admin")
 public class AdminWebServices {
 	
 

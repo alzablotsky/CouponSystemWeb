@@ -38,6 +38,7 @@ import com.jb.couponsystem.facades.CompanyFacade;
  *
  */
 @RestController
+@RequestMapping("company")
 public class CompanyWebServices {
 
 	@Autowired
